@@ -1,8 +1,6 @@
 # CSC443
-CSC443 Repository
-
 This is a CSC443 project
 
-This is for fun
+link to site: https://syazwina19.github.io/CSC443/
 
-yaaaaa
+https://sites.google.com/student.uitm.edu.my/nursyazwina/home
