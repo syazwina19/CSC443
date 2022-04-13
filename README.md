@@ -6,7 +6,7 @@ This is a CSC443 project
 
 <iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
 
-<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+<p><a href="https://sites.google.com/student.uitm.edu.my/nursyazwina/home" target="iframe_a">https://sites.google.com/student.uitm.edu.my/nursyazwina/home</a></p>
 
 
         
